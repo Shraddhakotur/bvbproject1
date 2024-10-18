@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-      char c='k';
+      char c='r';
       printf("The ASCII value of %c is %d",c,c);
       return 0;
 }
