@@ -4,7 +4,7 @@ int main()
 {
     int n,i;
     unsigned long long factorial =1;
-    printf("Enter a number:");
+    printf("Enter a alphabets:");
     scanf("%d",&n);
     if(n<0)
        printf("Error !Factorial of a negative number doesnt exist.");
