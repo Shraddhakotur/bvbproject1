@@ -2,7 +2,7 @@
 #include <conio.h>
 int main()
 {
-    int n,i;
+    int n,i,multiply;
     unsigned long long factorial =1;
     printf("Enter a number:");
     scanf("%d",&n);
